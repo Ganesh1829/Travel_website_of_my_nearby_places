@@ -1,0 +1,2 @@
+# Travel_website_of_my_nearby_places
+Travel destinations of Karnataka
